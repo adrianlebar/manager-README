@@ -3,7 +3,7 @@ Hey,
 Welcome to the team! I’m really glad you’ve joined us!
 
 ## Front matter
-First, a little about this document. I have seen dozens of similar documents by Engineering Managers, and I think they're pretty great ideas. This one borrows from many of them I have read over the years, but it's applicable to me, and reflects my values as an Engineering Manager (and human). It originally appeared on an internal wiki page when I worked for eBay as a manager working wiht the Engineering team at the Canadian classified site Kijiji. It has been significantly updated since then.
+First, a little about this document. I have seen dozens of similar documents by Engineering Managers, and I think they're pretty great ideas. This one borrows from many of them I have read over the years, but it's applicable to me, and reflects my values as an Engineering Manager (and human). It originally appeared on an internal wiki page when I worked for eBay as a manager working with the Engineering team at the Canadian classified site Kijiji. It has been significantly updated since then.
 
 I initially wrote it because I once read a quote that stuck with me. At first it stuck with me because it seemed a little absurd, but as I thought about it more and more (and I thought about it a lot), because it spoke to me on a an intuitive level. That quote is likely apocryphal, and also likely misattributed, but apparently President Eisenhower said it. That quote is:
 
@@ -122,7 +122,7 @@ A short list of things to do and not do. Neither inclusive nor exhaustive.
 - Do send an agenda with your meeting invitations. I have been known to decline meeting invites without agendas.
 - Do tell me if there's a better way. Be prepared with data. Data wins arguments, remember?
 - Do adopt a learning mentality. This is a trait I value above almost all others (Honesty is another one).
-- Do oOwn your own career growth. I am here to coach, I am here to help. But it's your career and you have to live it.
+- Do own your own career growth. I am here to coach, I am here to help. But it's your career and you have to live it.
 - Do guard your time preciously. You don’t get it back, so make sure you’re using it wisely.
 - Do have a life outside work. This is so critical I cannot stress it enough.
 - Do lead from the front. This means being the change you want to see.
