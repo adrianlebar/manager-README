@@ -126,7 +126,7 @@ A short list of things to do and not do. Neither inclusive nor exhaustive.
 - Guard your time preciously. You don’t get it back, so make sure you’re using it wisely.
 - Have a life outside work. This is so critical I cannot stress it enough.
 - Lead from the front. This means being the change you want to see.
-- 
+
 ### Don't:
 - Ask permission. Tell me what you intend to do, bring data to the discussion, and convince me you’ve thought it through.
 - Assume I know the answer, even if I sound convincing.
