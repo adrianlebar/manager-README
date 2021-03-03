@@ -1,3 +1,5 @@
+*I originally wrote this when I first joined the ebay Software Engineering team, as an ice-breaker and conversation starter with my new reports. I thought I had lost it once I left ebay, but happily found a copy of it while going through some old files.*
+
 Hey,
 
 Welcome to the team! I’m really glad you’ve joined us!
