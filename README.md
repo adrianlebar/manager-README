@@ -117,23 +117,23 @@ We'll start off with frequent, long meetings, and gradually pull them back to wh
 A short list of things to do and not do. Neither inclusive nor exhaustive.
 
 ### Do:
-- Communicate effectively, using data to back up your position.
-- Be bold. Fortune favours the bold.
-- Send an agenda with your meeting invitations. I have been known to decline meeting invites without agendas.
-- Tell me if there's a better way. Be prepared with data. Data wins arguments, remember?
-- Adopt a learning mentality. This is a trait I value above almost all others (Honesty is another one).
-- Own your own career growth. I am here to coach, I am here to help. But it's your career and you have to live it.
-- Guard your time preciously. You don’t get it back, so make sure you’re using it wisely.
-- Have a life outside work. This is so critical I cannot stress it enough.
-- Lead from the front. This means being the change you want to see.
+- Do communicate effectively, using data to back up your position.
+- Do be bold. Fortune favours the bold.
+- Do send an agenda with your meeting invitations. I have been known to decline meeting invites without agendas.
+- Do tell me if there's a better way. Be prepared with data. Data wins arguments, remember?
+- Do adopt a learning mentality. This is a trait I value above almost all others (Honesty is another one).
+- Do oOwn your own career growth. I am here to coach, I am here to help. But it's your career and you have to live it.
+- Do guard your time preciously. You don’t get it back, so make sure you’re using it wisely.
+- Do have a life outside work. This is so critical I cannot stress it enough.
+- Do lead from the front. This means being the change you want to see.
 
 ### Don't:
-- Ask permission. Tell me what you intend to do, bring data to the discussion, and convince me you’ve thought it through.
-- Assume I know the answer, even if I sound convincing.
-- Be afraid to ask why. More than once if needed.
-- Be afraid to make mistakes. We all do. If we're not making mistakes we're not learning. And if we're not learning, we're doing it wrong.
-- Make excuses. Things happen, mistakes are made (see access to production databases above). That's okay. But own them if they're yours. I'll own them if they're mine. In fact, **I’ll own them if they’re yours too, because that’s part of my job. So we’ll both learn.**
-- Do something just because I told you to. Data, remember? It's a two way street.
+- Don't ask permission. Tell me what you intend to do, bring data to the discussion, and convince me you’ve thought it through.
+- Don't assume I know the answer, even if I sound convincing.
+- Don't be afraid to ask why. More than once if needed.
+- Don't be afraid to make mistakes. We all do. If we're not making mistakes we're not learning. And if we're not learning, we're doing it wrong.
+- Don't make excuses. Things happen, mistakes are made (see access to production databases above). That's okay. But own them if they're yours. I'll own them if they're mine. In fact, **I’ll own them if they’re yours too, because that’s part of my job. So we’ll both learn.**
+- Don't do something just because I told you to. Data, remember? It's a two way street.
 - Don’t check email or Slack on weekends. That’s your time to recharge and bring your best self to work on weekdays. If we can’t take time off on weekends because we are worried about our systems, we’re not monitoring properly and don’t have a good strategy in place for operating our products, and that’s a problem we should fix.
 
 
