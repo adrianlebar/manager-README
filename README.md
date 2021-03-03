@@ -72,7 +72,7 @@ Unless I (or your manager, if your manager reports to me) has explicitly said to
 
 I've been a manager for a long time. I've had hundreds of people reporting to me in that time, in a variety of roles at a variety of companies. I have had to fire a few people, but in all that time - almost 15 years as of this writing -  the number of people I have terminated  is five. None of them were surprised when this happened. Some were angry, but none of them were surprised.
 
-For example, one of those people dropped a production database. After electing to not make a backup. Twice.  He was angry that I fired him.. The only valid criticism I am willing to accept here is around the question of why that engineer had access to the production database. And that's a valid question. The answer is not good. Mistakes were made. I learned. 
+For example, one of those people dropped a production database. After electing to not make a backup. *Twice*.  He was angry that I fired him. The only valid criticism I am willing to accept here is around the question of why that engineer had access to the production database. And that's a valid question. The answer is not good. Mistakes were made. I learned. 
 
 The upshot is that you probably aren't going to get fired. So don’t hide your light because you’re afraid you might get canned. Fortune favours the bold.
 
@@ -132,7 +132,7 @@ A short list of things to do and not do. Neither inclusive nor exhaustive.
 - Assume I know the answer, even if I sound convincing.
 - Be afraid to ask why. More than once if needed.
 - Be afraid to make mistakes. We all do. If we're not making mistakes we're not learning. And if we're not learning, we're doing it wrong.
-- Make excuses. Things happen, mistakes are made (see access to production databases above). That's okay. But own them if they're yours. I'll own them if they're mine. In fact, I’ll own them if they’re yours too, because that’s part of my job. So we’ll both learn.
+- Make excuses. Things happen, mistakes are made (see access to production databases above). That's okay. But own them if they're yours. I'll own them if they're mine. In fact, **I’ll own them if they’re yours too, because that’s part of my job. So we’ll both learn.**
 - Do something just because I told you to. Data, remember? It's a two way street.
 - Don’t check email or Slack on weekends. That’s your time to recharge and bring your best self to work on weekdays. If we can’t take time off on weekends because we are worried about our systems, we’re not monitoring properly and don’t have a good strategy in place for operating our products, and that’s a problem we should fix.
 
