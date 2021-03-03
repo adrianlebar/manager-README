@@ -15,7 +15,7 @@ This document is among other things, a work in progress. I wrote it, and continu
 
 Consider this an exercise in planning.
 
-What this is and also what it isn’t
+## What this is and also what it isn’t
 
 This document is a quick introduction to who I am, what it might be like working with me, and some insight into why I might make the sorts of decisions I do.
 
