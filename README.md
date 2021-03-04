@@ -58,7 +58,7 @@ What that means is that face-to-face talking > video conferencing > telephone > 
 
 ## Butts where they create value
 
-As far as I'm concerned, you aren't. payed to sit at a desk.  You're paid to create value. I don't care if you're sitting at your desk in the office doing that, or sitting at home doing it, or even sitting in a coffee shop or on a beach. Create value.
+As far as I'm concerned, you aren't payed to sit at a desk.  You're paid to create value. I don't care if you're sitting at your desk in the office doing that, or sitting at home doing it, or even sitting in a coffee shop or on a beach. Create value.
 
 That said, there are times when the best way to work together might be face to face, or via video conferencing or something (see Density fo Communication, above). Work out with your team the best way for all of you to work together and get to it.
 
